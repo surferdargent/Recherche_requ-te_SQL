@@ -24,4 +24,4 @@ Le fichier CSV doit être encodé en "iso-8859-1".
 La recherche ne prend pas en compte la casse des caractères.
 
 Auteur
-Cette application a été développée par Olivier Le Curieux Clerville .
+Cette application a été développée par Olivier Le Curieux Clerville (surferdargent).
