@@ -1,6 +1,6 @@
 Recherche de requêtes SQL
 
-Cette application permet de rechercher des requêtes SQL dans un fichier CSV contenant des commentaires et des requêtes SQL.
+Cette application permet de rechercher des requêtes SQL contenant des commentaires et des requêtes SQL.
 L'interface graphique a été développée en utilisant la bibliothèque Tkinter de Python.
 
 Fonctionnalités
